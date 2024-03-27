@@ -1,10 +1,9 @@
-$pageWidth: 750px; // default is 750px... tried out 579px
+$pageWidth: 579px; // default is 750px
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
-$sidePanelWidth: 380px; // default is 380px... tried out 350px, 579+350=1279 for MacBook Air
+$sidePanelWidth: 350px; // default is 380px
 $topSpacing: 6rem;
 $fullPageWidth: $pageWidth + 2 * $sidePanelWidth;  // default is 750+(380*2)=1510px
-$mediumPageWidth: $pageWidth + $sidePanelWidth;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
